@@ -283,6 +283,7 @@
     align-items: center;
     font-weight: inherit;
     cursor: pointer;
+    text-decoration: none;
 }
 .link{
     color: rgb(33,133,208);
