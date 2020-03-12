@@ -270,10 +270,12 @@
     color: rgb(27,28,29)!important;
 }
 .button{
-    display: flex;
+    display: inline-flex;
     border-radius: .3em;
     border: 2px solid;
-    width: 5.2em;
+    min-width: 5.2em;
+    padding-left: .6em;
+    padding-right: .6em;
     height: 1.8em;
     margin-bottom: .4em;
     box-sizing: border-box;
