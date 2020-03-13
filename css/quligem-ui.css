@@ -283,7 +283,6 @@
     align-items: center;
     font-weight: inherit;
     cursor: pointer;
-    text-decoration: none;
 }
 .link{
     color: rgb(33,133,208);
@@ -326,8 +325,8 @@
     padding-top: .78em;
     padding-bottom: .78em;
     min-height: 3em;
-    padding-left: 27%;
-    padding-right: 27%;
+    padding-left: 25%;
+    padding-right: 25%;
     box-sizing: border-box;
 }
 body{
