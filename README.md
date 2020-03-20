@@ -1,6 +1,6 @@
 # Oier2048's Main Page
 ### 妈的，我英语太差了，还是用中文写吧
-> 这个 Github 项目一共被打开了 [![HitCount](http://hits.dwyl.com/bohanjun/Oier2048.svg)](http://hits.dwyl.com/bohanjun/Oier2048) 次
+> 这个 Github 项目一共被打开了 [![HitCount](https://hits.dwyl.com/bohanjun/Oier2048.svg)](https://hits.dwyl.com/bohanjun/Oier2048) 次
 
 > 其中包括了来自 [oier.fun](https://oier.fun/) 的点击量
 
